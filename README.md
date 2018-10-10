@@ -1,4 +1,4 @@
-# Bloc Jams
+# FLOW MUSIC
 #### A digital music player built with ReactJS
 
 ***
